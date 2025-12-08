@@ -201,6 +201,9 @@ Procfile          text
 # Data
 *.mat             binary
 
+# Magic
+*.mag             text
+
 # Executables
 *.exe             binary
 *.pyc             binary
